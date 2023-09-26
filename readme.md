@@ -1,10 +1,8 @@
-Данный репозиторий содержит исходный код для чат-бота:
-https://t.me/MediaCorrelationHelperBot
+### Данный репозиторий содержит исходный код для telegram-бота [MediaCorrelationHelperBot](https://t.me/MediaCorrelationHelperBot)
 
-Пример таблицы для обработки ботом: 
-https://docs.google.com/spreadsheets/d/1eeOypc11bHbW188ICc17laMf_B73i87AQ9emz2wwvFo/edit#gid=168741310
+#### Пример таблицы для обработки ботом можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1eeOypc11bHbW188ICc17laMf_B73i87AQ9emz2wwvFo/edit#gid=168741310)
 
-Следующая инструкция по установке проверена на arch-linux:
+#### Следующая инструкция по установке проверена на arch-linux:
 
 1) ```console 
    git clone https://github.com/PE51K/ai_gp_hack_tg_bot
@@ -23,4 +21,6 @@ https://docs.google.com/spreadsheets/d/1eeOypc11bHbW188ICc17laMf_B73i87AQ9emz2ww
 5) ```console 
    python *Полный путь к файлу*/mch_bot.py *Полный путь к файлу*/mch_bot_reports_sender.py
    ```
+
+#### Контакты разработчиков: [Григорий](https://t.me/gregory1m), [Сергей](https://t.me/Izumka0)
 
